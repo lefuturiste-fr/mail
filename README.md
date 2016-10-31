@@ -1,3 +1,3 @@
 # mail
 
-Send a email with this class
+Send a email with this class.
